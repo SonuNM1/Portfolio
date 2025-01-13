@@ -1,14 +1,6 @@
 [
   {
     "key": 1,
-    "title": "localBazaa₹ : Full Stack eCommerce App",
-    "imageSrc": "projects/localbazaar.jpeg",
-    "description": "localBazaa₹ is a mobile-friendly eCommerce platform with JWT-based authentication, allowing users to securely log in and manage their accounts. It includes a forgot password feature that sends an OTP to the user's email for password recovery. Users can search products, add them to the cart, and complete orders through a payment gateway. The admin dashboard enables full CRUD operations for managing categories, subcategories, and products.",
-    "demo": "https://www.example.com",
-    "source": "https://github.com/SonuNM1/QuickBasket-2"
-  },
-  {
-    "key": 2,
     "title": "Postify : Blog application",
     "imageSrc": "projects/postify.jpeg",
     "description": "Postify is a dynamic blog application where users can explore and engage with blogs across categories like education, business, and sports. Users can comment, edit, delete, and like blogs, with login options via email/password or Google (integrated using Firebase). Admins have a dashboard to manage users, posts, and comments, enabling them to create, update, and delete blogs while overseeing all website activity.",
@@ -16,11 +8,19 @@
     "source": "https://github.com/SonuNM1/Postify-Blog-Application"
   },
   {
-    "key": 4,
-    "title": "React Firebase App",
-    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "key": 2,
+    "title": "localBazaa₹ : Full Stack eCommerce App",
+    "imageSrc": "projects/localbazaar.jpeg",
+    "description": "localBazaa₹ is a mobile-friendly eCommerce platform with JWT-based authentication, allowing users to securely log in and manage their accounts. It includes a forgot password feature that sends an OTP to the user's email for password recovery. Users can search products, add them to the cart, and complete orders through a payment gateway. The admin dashboard enables full CRUD operations for managing categories, subcategories, and products.",
+    "demo": "https://github.com/SonuNM1/QuickBasket-2",
+    "source": "https://github.com/SonuNM1/QuickBasket-2"
+  },
+  {
+    "key": 3,
+    "title": "Store Locator API",
+    "imageSrc": "projects/store_locator.jpeg",
+    "description": "A backend API built with Node.js, Express.js, and MongoDB to manage store data. It allows users to add stores with unique IDs and addresses, and geocode those addresses to store location coordinates. The API supports GET and POST requests for retrieving and adding stores. It uses MapQuest API for geocoding and handles errors like duplicate store entries.",
+    "demo": "https://github.com/SonuNM1/Store-Locator",
+    "source": "https://github.com/SonuNM1/Store-Locator"
   }
 ]
