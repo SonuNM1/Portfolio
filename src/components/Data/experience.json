@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": "Software Development Intern",
+    "organisation": "Prutor @ IITKanpur",
+    "startDate": "Jan, 2024",
+    "endDate": "March, 2024",
+    "location": "Noida",
+    "experiences": [
+      "Built a file-sharing and employee management system for tracking task statuses, enhancing workflow and accountability",
+      "Contributed to enhancing existing software by fixing bugs and adding features, improving employee productivity and efficiency."
+    ],
+    "imageSrc": "company/prutor.jpg"
+  },
+  {
+    "id": 2,
+    "role": "Software Development Engineer SDE - I",
+    "organisation": "Mirosoft",
+    "startDate": "Aug, 2022",
+    "endDate": "Aug, 2023",
+    "location": "London, UK",
+    "experiences": [
+      "Worked on Windows 10 terminal",
+      "Worked on Window 11 Upcoming features"
+    ],
+    "imageSrc": "company/microsoft.png"
+  }
+]
