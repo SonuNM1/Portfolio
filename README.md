@@ -1,6 +1,10 @@
-https://sonunm.vercel.app/
 
-https://postify-s58m.onrender.com/
+## 🌍 Deployed Projects  
+
+🚀 **Portfolio Website** – [Live Demo](https://sonunm.vercel.app/)  
+📝 **Postify (Blog Application)** – [Live Demo](https://postify-s58m.onrender.com/)  
+🚗 **CarvanaX (Car Marketplace)** – [Live Demo](https://carvanax.vercel.app/)  
+
 
 
 ### TailwindCSS config 
