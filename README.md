@@ -1,9 +1,9 @@
 
-## 🌍 Deployed Projects  
+## 🌍 Deployed Projects   
 
-🚀 **Portfolio Website** – [Live Demo](https://sonunm.vercel.app/)  
-📝 **Postify (Blog Application)** – [Live Demo](https://postify-s58m.onrender.com/)  
-🚗 **CarvanaX (Car Marketplace)** – [Live Demo](https://carvanax.vercel.app/)  
+🚀 **Portfolio Website** – [Live Demo](https://sonunm.vercel.app/){:target="_blank" rel="noopener noreferrer"}  
+📝 **Postify (Blog Application)** – [Live Demo](https://postify-s58m.onrender.com/){:target="_blank" rel="noopener noreferrer"}  
+🚗 **CarvanaX (Car Marketplace)** – [Live Demo](https://carvanax.vercel.app/){:target="_blank" rel="noopener noreferrer"}  
 
 
 
