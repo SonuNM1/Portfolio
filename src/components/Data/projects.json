@@ -1,11 +1,11 @@
 [
   {
     "key": 1,
-    "title": "Postify : Blog application",
-    "imageSrc": "projects/postify.jpeg",
-    "description": "Postify is a dynamic blog application where users can explore and engage with blogs across categories like education, business, and sports. Users can comment, edit, delete, and like blogs, with login options via email/password or Google (integrated using Firebase). Admins have a dashboard to manage users, posts, and comments, enabling them to create, update, and delete blogs while overseeing all website activity.",
-    "demo": "https://postify-s58m.onrender.com/",
-    "source": "https://github.com/SonuNM1/Postify-Blog-Application"
+    "title": "CarvanaX : Car Marketplace",
+    "imageSrc": "projects/CarvanaX.jpeg",
+    "description": "Developed a car marketplace platform with secure user authentication using JWT and social logins, enabling users to manage their accounts seamlessly. Implemented features for adding, editing, and deleting car listings, with category-based filtering for an improved browsing experience. Integrated advanced search, direct messaging between users and car owners, and a financial calculator to estimate payment plans easily.",
+    "demo": "https://carvanax.vercel.app/",
+    "source": "https://github.com/SonuNM1/CarvanaX"
   },
   {
     "key": 2,
@@ -17,10 +17,10 @@
   },
   {
     "key": 3,
-    "title": "Store Locator API",
-    "imageSrc": "projects/store_locator.jpeg",
-    "description": "A backend API built with Node.js, Express.js, and MongoDB to manage store data. It allows users to add stores with unique IDs and addresses, and geocode those addresses to store location coordinates. The API supports GET and POST requests for retrieving and adding stores. It uses MapQuest API for geocoding and handles errors like duplicate store entries.",
-    "demo": "https://github.com/SonuNM1/Store-Locator",
-    "source": "https://github.com/SonuNM1/Store-Locator"
+    "title": "PaisaWaisa: Expense Tracker",
+    "imageSrc": "projects/PaisaWaisa.jpeg",
+    "description": "Developed an expense tracker application with secure user authentication, including sign-up, login/logout, and protected routes for data privacy. Implemented functionality to add, update,and manage income and expense transactions efficiently. Visualized financial data through interactive charts and enabled users to download detailed reports for future reference. ",
+    "demo": "https://github.com/SonuNM1/PaisaWaisa-Expense-Tracker",
+    "source": "https://github.com/SonuNM1/PaisaWaisa-Expense-Tracker"
   }
 ]

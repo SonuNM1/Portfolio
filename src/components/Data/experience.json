@@ -1,17 +1,20 @@
 [
   {
     "id": 1,
-    "role": "Software Developer Intern",
-    "organisation": "Career Margdarshan",
-    "startDate": "May, 2024",
-    "endDate": "November, 2024",
-    "location": "Delhi",
+    "role": "Junior Full Stack Web Developer",
+    "organisation": "Orphic Solution",
+    "startDate": "Feb, 2024",
+    "endDate": "Working",
+    "location": "Bhopal",
     "experiences": [
-      "Developed and maintained features using ReactJS, NodeJS, and MongoDB to enhance platform functionality.",
-      "Built REST APIs for seamless data integration and optimized backend performance for faster response times.",
-      "Gained hands-on experience in full-stack development and agile project workflows."
+      "Spearheaded the development of 7+ full-stack projects using React.js, Node.js, Express, and MongoDB, enhancing frontend responsiveness and backend performance.",
+      "Built and secured RESTful APIs with JWT authentication and role-based access, eliminating unauthorized access incidents.",
+      "Optimized API performance by 30-50% through MongoDB indexing, pagination, and in-memory caching strategies.",
+      "Automated routine tasks and backend operations using Node.js scripts, accelerating development speed and reducing manual efforts by 40%.",
+      "Integrated third-party services like Firebase and Cloudinary for authentication and file handling, enriching app functionality.",
+      "Collaborated with the team using Git, conducted code reviews, and contributed to successful deployments with proper CORS handling and performance tuning."
     ],
-    "imageSrc": "company/career-margdarshan2.png",
+    "imageSrc": "company/Orphic_Solution.webp",
     "link": "https://careermargdarshan.org/"
   }
 ]

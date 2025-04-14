@@ -16,7 +16,7 @@ const Experience = () => {
               style={{
                 display: "flex",
                 alignItems: "center",
-                justifyContent: "space-between", // Ensures space between the two sections
+                justifyContent: "space-between",
                 marginBottom: "30px",
               }}
             >
@@ -24,8 +24,8 @@ const Experience = () => {
               <div
                 className="left"
                 style={{
-                  flex: 0.4, // Reduced space for the left section
-                  marginRight: "20px", // Move it more left by reducing space between the sections
+                  flex: 0.4,
+                  marginRight: "20px",
                   textAlign: "center",
                 }}
               >
@@ -33,6 +33,7 @@ const Experience = () => {
                   <img
                     src={`/assets/${data.imageSrc}`}
                     alt={data.title}
+                    style={{ maxWidth: "100%", height: "auto" }}
                   />
                 </a>
                 <h2 style={{ fontSize: "18px" }}>{data.role}</h2>
@@ -49,8 +50,8 @@ const Experience = () => {
                 style={{
                   width: "1px",
                   height: "100%",
-                  backgroundColor: "#ddd", // Divider color
-                  marginRight: "20px", // Space between the divider and right section
+                  backgroundColor: "#ddd",
+                  marginRight: "20px",
                 }}
               />
 
@@ -58,19 +59,23 @@ const Experience = () => {
               <div
                 className="right"
                 style={{
-                  flex: 0.6, // More space for the right section
-                  textAlign: "left", // Left justify the description text
+                  flex: 0.6,
+                  textAlign: "left",
                 }}
               >
-                <h5 style={{ fontSize: "14px", fontWeight: "normal", lineHeight: "1.5" }}>
-                  {data.experiences[0]}
-                </h5>
-                <h5 style={{ fontSize: "14px", fontWeight: "normal", lineHeight: "1.5" }}>
-                  {data.experiences[1]}
-                </h5>
-                <h5 style={{ fontSize: "14px", fontWeight: "normal", lineHeight: "1.5" }}>
-                  {data.experiences[2]}
-                </h5>
+                {data.experiences.map((item, index) => (
+                  <h5
+                    key={index}
+                    style={{
+                      fontSize: "14px",
+                      fontWeight: "normal",
+                      lineHeight: "1.5",
+                      marginBottom: "10px",
+                    }}
+                  >
+                    • {item}
+                  </h5>
+                ))}
               </div>
             </div>
           );
